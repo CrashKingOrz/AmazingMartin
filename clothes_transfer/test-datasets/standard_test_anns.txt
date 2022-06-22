@@ -1,0 +1,11 @@
+pose
+user.jpg
+attr
+plaid, user.jpg
+print, model_template.jpg
+strip, model_template.jpg
+pattern, model_template.jpg
+gfla, model_template.jpg
+jacket, model_template.jpg
+lace, model_template.jpg
+flower, model_template.jpg

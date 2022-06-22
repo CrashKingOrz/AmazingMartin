@@ -1,0 +1,9 @@
+.idea
+__pycache__
+checkpoint
+results
+clothes_transfer/fashion_data/
+clothes_transfer/fashion_image_crop/
+clothes_transfer/fashion_image_src/
+clothes_transfer/datasets/test/
+clothes_transfer/datasets/testM_lip/
