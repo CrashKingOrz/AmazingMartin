@@ -1,5 +1,9 @@
 ## Description
 
+**AmazingMartin** : A wonderful virtual dressing room application based on GAN
+
+![](./res/logo/logo_banner.png)
+
 Based on the cutting-edge technologies related to **GAN**, such as makeup transfer, hairstyle transfer and virtual try-on, we have built a **virtual modeling room** **application** with complete functions and flexible operation, integrating various functions such as **virtual makeup**, **virtual hair change** and **virtual clothes try-on**. The application allows users to upload model photos freely and combine corresponding functions to meet the personalized needs of them for their modeling preview.
 
 ## Installation
@@ -16,6 +20,8 @@ conda env create -f environment.yml
 You can download all weights from [Baidu Netdisk](https://pan.baidu.com/s/1HWfCEoo3Hen_NkuZ_-UavA) (extracted code: hw96) and put them in ```./checkpoint```.
 
 ## Getting Started
+
+Demo Video：[YouTube](https://www.youtube.com/watch?v=JkOMB0G2K10&ab_channel=JackCheng) | [Bilibili](https://www.bilibili.com/video/BV15W4y167vb)
 
 It's very easy to use this app. Just run ```python app.py``` to start the app, then you can enjoy your modeling time!
 
